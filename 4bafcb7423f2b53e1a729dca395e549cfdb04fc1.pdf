@@ -1,0 +1,327 @@
+%PDF-1.3
+
+1 0 obj
+<</ Author (Stefan Cameron) /CreationDate (D:20070801141705-04'00')
+  /Creator (Adobe LiveCycle Designer ES 8.1) /ModDate
+  (D:20070807143524-04'00') /Producer (Adobe LiveCycle Designer ES 8.1)>>
+endobj
+
+2 0 obj
+<</AcroForm 3 0 R /MarkInfo <</Marked true>> /Metadata 4 0 R
+  /NeedsRendering true
+   /OpenAction << 
+   /S /JavaScript
+   /JS (xfa.host.resetData\(\);
+)
+  >>
+ /Pages 5 0 R /Type /Catalog>>
+endobj
+
+3 0 obj
+<</DA (/Helv 0 Tf 0 g ) /DR <</Font <</Helv 9 0 R>>>> /Fields [] /XFA
+  [(preamble) 10 0 R (config) 11 0 R (template) 12 0 R (form) 13 0 R
+  (postamble) 14 0 R]>>
+endobj
+
+4 0 obj
+<</Length 1777 /Subtype /XML /Type /Metadata>>
+stream
+<?xpacket begin="???" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.0-c319 44.281645, Sun Mar 25 2007 16:17:34">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xap="http://ns.adobe.com/xap/1.0/">
+         <xap:ModifyDate>2007-08-07T14:35:24-04:00</xap:ModifyDate>
+         <xap:CreateDate>2007-08-01T14:17:05-04:00</xap:CreateDate>
+         <xap:MetadataDate>2007-08-07T14:35:24-04:00</xap:MetadataDate>
+         <xap:CreatorTool>Adobe LiveCycle Designer ES 8.1</xap:CreatorTool>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/">
+         <xapMM:DocumentID>uuid:3b6c6ea3-3edf-40f5-90ff-51ee202e15b4</xapMM:DocumentID>
+         <xapMM:InstanceID>uuid:19fb78e2-2b5f-4b75-a071-69ed5538b9ed</xapMM:InstanceID>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Stefan Cameron</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>Adobe LiveCycle Designer ES 8.1</pdf:Producer>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:desc="http://ns.adobe.com/xfa/promoted-desc/">
+         <desc:contact rdf:parseType="Resource">
+            <rdf:value>http://forms.stefcameron.com</rdf:value>
+            <desc:ref>/template/subform[1]</desc:ref>
+         </desc:contact>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="w"?>
+endstream
+endobj
+
+5 0 obj
+<</Count 1 /Kids [6 0 R] /Type /Pages>>
+endobj
+
+6 0 obj
+<</Contents 7 0 R /CropBox [0.0 0.0 612.0 792.0] /MediaBox
+  [0.0 0.0 612.0 792.0] /Parent 5 0 R /Resources
+  <</Font <</T1_0 8 0 R>> /ProcSet [/PDF /Text]>> /Rotate 0
+  /StructParents 0 /Type /Page>>
+endobj
+
+7 0 obj
+<< /Length 409 >>
+stream
+BT
+/Content <</MCID 0 >>BDC 
+0 0 0 rg
+/RelativeColorimetric ri
+/T1_0 1 Tf
+10 0 0 10 72 712.72 Tm
+(To view the full contents of this document, you need a later version of the PDF viewer. You can upgrade )Tj
+0 -1.138 TD
+(to the latest version of Adobe Reader from www.adobe.com/products/acrobat/readstep2.html )Tj
+T*
+( )Tj
+T*
+(For further support, go to www.adobe.com/support/products/acrreader.html)Tj
+EMC 
+ET
+
+endstream
+endobj
+
+8 0 obj
+<</BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font>>
+endobj
+
+9 0 obj
+<</BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font>>
+endobj
+
+10 0 obj
+<< /Length 162 >>
+stream
+<?xml version="1.0" encoding="UTF-8"?>
+<xdp:xdp xmlns:xdp="http://ns.adobe.com/xdp/" timeStamp="2007-08-07T18:35:24Z" uuid="3b6c6ea3-3edf-40f5-90ff-51ee202e15b4">
+endstream
+endobj
+
+11 0 obj
+<< /Length 1874 >>
+stream
+<config xmlns="http://www.xfa.org/schema/xci/2.6/"
+><agent name="designer"
+><destination
+>pdf</destination
+><pdf
+><!--  [0..n]  --><fontInfo
+/></pdf
+></agent
+><present
+><!--  [0..n]  --><pdf
+><!--  [0..n]  --><version
+>1.7</version
+><renderPolicy
+>client</renderPolicy
+><creator
+>Adobe LiveCycle Designer ES 8.1</creator
+><producer
+>Adobe LiveCycle Designer ES 8.1</producer
+><scriptModel
+>XFA</scriptModel
+><interactive
+>1</interactive
+><tagged
+>1</tagged
+><fontInfo
+><embed
+>1</embed
+></fontInfo
+><compression
+><level
+>6</level
+><compressLogicalStructure
+>1</compressLogicalStructure
+></compression
+><linearized
+>1</linearized
+><silentPrint
+><addSilentPrint
+>0</addSilentPrint
+><printerName
+/></silentPrint
+><viewerPreferences
+><addViewerPreferences
+>0</addViewerPreferences
+><duplexOption
+>simplex</duplexOption
+><numberOfCopies
+>0</numberOfCopies
+></viewerPreferences
+></pdf
+><common
+><data
+><adjustData
+>1</adjustData
+><xsl
+><uri
+/></xsl
+><outputXSL
+><uri
+/></outputXSL
+><uri
+/></data
+><messaging
+/><locale
+/><log
+><to
+>memory</to
+><mode
+>overwrite</mode
+></log
+><template
+><base
+>D:\Dev\SConForms\Blog\Samples\TheOtherField\</base
+></template
+></common
+><cache
+><macroCache
+/><renderCache
+/></cache
+><incrementalMerge
+/><script
+><runScripts
+/><exclude
+/><currentPage
+/></script
+><copies
+/><layout
+/><xdp
+><packets
+>*</packets
+></xdp
+><destination
+>pdf</destination
+><output
+><to
+>uri</to
+><uri
+>D:\Dev\SConForms\Blog\Samples\TheOtherField\TheOtherField_Acro81.pdf</uri
+></output
+></present
+><psMap
+/><acrobat
+><acrobat7
+><dynamicRender
+>required</dynamicRender
+></acrobat7
+><common
+><versionControl sourceBelow="maintain"
+/><locale
+/><data
+><adjustData
+>1</adjustData
+><xsl
+><uri
+/></xsl
+><outputXSL
+><uri
+/></outputXSL
+><uri
+/></data
+><template
+><base
+>D:\Dev\SConForms\Blog\Samples\TheOtherField\</base
+><relevant
+/><uri
+/></template
+></common
+></acrobat
+></config
+>
+endstream
+endobj
+
+12 0 obj
+<< /Length 691 >>
+stream
+<template>
+    <subform name="subform0">
+        <pageSet>
+            <pageArea>
+                <contentArea />
+            </pageArea>
+        </pageSet>
+        <field>
+            <ui>
+                <checkButton />
+            </ui>
+            <value>
+                <float> 1872560676325559.1 </float>
+            </value>
+        </field>
+        <field id="clickMe" name="clickMe" w="4" h="4" x="4" y="4">
+            <ui>
+                <imageEdit />
+            </ui>
+            <event activity="mouseUp">
+                <submit format="formdata" target="http://192.168.0.110/" textEncoding="UTF-16"></submit>
+            </event>
+        </field>
+    </subform>
+</template>
+endstream
+endobj
+
+13 0 obj
+<< /Length 63 >>
+stream
+<form xmlns="http://www.xfa.org/schema/xfa-form/2.6/"
+></form
+>
+endstream
+endobj
+
+14 0 obj
+<< /Length 11 >>
+stream
+</xdp:xdp>
+
+endstream
+endobj
+
+xref
+0 15
+0000000000 65535 f
+0000000010 00000 n
+0000000222 00000 n
+0000000429 00000 n
+0000000608 00000 n
+0000002466 00000 n
+0000002522 00000 n
+0000002739 00000 n
+0000003200 00000 n
+0000003296 00000 n
+0000003392 00000 n
+0000003607 00000 n
+0000005535 00000 n
+0000006279 00000 n
+0000006394 00000 n
+trailer
+<<
+ /Size 15
+ /Root 2 0 R
+>>
+startxref
+6457
+%%EOF
